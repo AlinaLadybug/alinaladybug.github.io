@@ -1,0 +1,2 @@
+## Friends App
+Real project! Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna). [Demo](https://alinaladybug.github.io/friends-app/) | [Code Base](https://github.com/AlinaLadybug/friends-app)
